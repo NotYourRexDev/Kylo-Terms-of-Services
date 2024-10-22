@@ -27,6 +27,6 @@ Violating these terms will result in blacklisting or banning from Kylo’s servi
 
 Contact:
 
-If you have any questions or need assistance, please join our Support Server.
+If you have any questions or need assistance, please join our [Support Server](https://discord.gg/kylo).
 
 Thank you for using Kylo!
